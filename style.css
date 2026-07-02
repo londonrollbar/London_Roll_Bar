@@ -1,1 +1,66 @@
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#f8f8f8;
+color:#333;
+}
 
+.header{
+background:#0b2d5b;
+color:white;
+text-align:center;
+padding:30px 20px;
+}
+
+.logo{
+width:140px;
+border-radius:20px;
+}
+
+h1{
+margin:10px 0;
+}
+
+.order-btn{
+display:inline-block;
+background:#25D366;
+color:white;
+padding:12px 24px;
+text-decoration:none;
+border-radius:30px;
+font-weight:bold;
+margin-top:15px;
+}
+
+.hero{
+background:#ffb703;
+text-align:center;
+padding:40px 20px;
+}
+
+.menu{
+padding:20px;
+}
+
+.card{
+background:white;
+margin:20px auto;
+padding:20px;
+max-width:350px;
+border-radius:15px;
+box-shadow:0 5px 15px rgba(0,0,0,.15);
+text-align:center;
+}
+
+.card button{
+background:#0b2d5b;
+color:white;
+border:none;
+padding:10px 20px;
+border-radius:25px;
+cursor:pointer;
+}
+
+.card button:hover{
+background:#ff6600;
+}
