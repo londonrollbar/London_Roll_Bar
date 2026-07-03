@@ -94,3 +94,34 @@ box-shadow:0 10px 25px rgba(0,0,0,.15);
 .gallery-grid img:hover{
 transform:scale(1.05);
 }
+.search-box{
+text-align:center;
+margin:20px;
+}
+
+.search-box input{
+width:90%;
+max-width:500px;
+padding:14px;
+border-radius:30px;
+border:none;
+font-size:18px;
+}
+
+.cart{
+padding:50px;
+background:#111;
+text-align:center;
+}
+
+.cart button{
+background:#25D366;
+padding:15px 35px;
+border:none;
+border-radius:30px;
+font-size:18px;
+font-weight:bold;
+color:#fff;
+cursor:pointer;
+margin-top:20px;
+}
